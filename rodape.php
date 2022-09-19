@@ -1,8 +1,6 @@
 
+</div><!-- Fechamento da div container -->
+<script src="./bootstrap.bundle.min.js"></script>
 
-
-       </main>
-    </div>
-    Desenvolvido por Fernando Graciano
-    </body>
+</body>
 </html>
